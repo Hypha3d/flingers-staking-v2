@@ -988,10 +988,6 @@
   color: #F44336;
 }
 
-/* Add success color variable */
-:root {
-  --success-color: #4CAF50;
-}
 
 /* Skill tree connections (optional - for more advanced UI) */
 .skillConnection {
