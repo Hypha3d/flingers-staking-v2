@@ -1,0 +1,46 @@
+{
+    "id": 323,
+    "name": "Flinger #323",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0323.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Undead"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Rock 2"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Happy Birthday"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar 2"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Wings"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 158
+}

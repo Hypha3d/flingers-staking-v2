@@ -1,0 +1,46 @@
+{
+    "id": 831,
+    "name": "Flinger #831",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0831.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Poop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pinkhawk"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Wake Up"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lizard Tongue"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Hellwings"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 19
+}

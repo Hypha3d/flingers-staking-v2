@@ -1,0 +1,46 @@
+{
+    "id": 585,
+    "name": "Flinger #585",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0585.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fury"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Leopard"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Leopard"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Kings"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker 1"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 120
+}

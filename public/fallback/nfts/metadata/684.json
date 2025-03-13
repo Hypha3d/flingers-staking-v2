@@ -1,0 +1,46 @@
+{
+    "id": 684,
+    "name": "Flinger #684",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0684.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normie"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Low Melanin"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Pebble-Dash"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tophat 2"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sunnies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar 1"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 400
+}

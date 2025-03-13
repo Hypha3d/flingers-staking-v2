@@ -1,0 +1,46 @@
+{
+    "id": 129,
+    "name": "Flinger #129",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0129.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normie"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "High Melanin"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "White"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Poop-Dollar"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pinkhawk"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sunnies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 910
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1283,
+    "name": "Flinger #1283",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1283.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normie"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Banana"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bizkit"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoker 2"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 523
+}

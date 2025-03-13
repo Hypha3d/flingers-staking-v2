@@ -1,0 +1,46 @@
+{
+    "id": 1439,
+    "name": "Flinger #1439",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1439.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normie"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Stoned Ape"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bot Tech"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Pebble-Dash"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Side Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Fluffy Tail"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 655
+}

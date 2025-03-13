@@ -1,0 +1,46 @@
+{
+    "id": 1076,
+    "name": "Flinger #1076",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1076.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orangeez"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "High Melanin"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bot Tech"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Poop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Happy Birthday"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar 1"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 485
+}

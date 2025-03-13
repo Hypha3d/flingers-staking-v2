@@ -1,0 +1,48 @@
+{
+    "id": 982,
+    "name": "Pharaoh Ape-Khafre",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0982.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pharaoh"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Pharaoh"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 2,
+    "camera_variant": null,
+    "lighting_variant": null
+}

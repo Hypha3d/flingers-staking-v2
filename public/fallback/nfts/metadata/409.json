@@ -1,0 +1,46 @@
+{
+    "id": 409,
+    "name": "Flinger #409",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0409.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fury"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Cheese"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Side Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Tail"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 397
+}

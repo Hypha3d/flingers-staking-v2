@@ -1,0 +1,48 @@
+{
+    "id": 447,
+    "name": "Alpha.sig-m4",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0447.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Alpha"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Alpha"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 4,
+    "camera_variant": null,
+    "lighting_variant": null
+}

@@ -1,0 +1,46 @@
+{
+    "id": 451,
+    "name": "Flinger #451",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0451.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normie"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Cheese"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Hope"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Hippy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wizard Pipe"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 66
+}

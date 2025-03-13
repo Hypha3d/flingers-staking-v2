@@ -1,0 +1,46 @@
+{
+    "id": 999,
+    "name": "Flinger #999",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0999.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wizard"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "High Melanin"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bot Tech"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Hippy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Dagger"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Wings"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 82
+}

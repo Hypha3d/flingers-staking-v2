@@ -1,0 +1,46 @@
+{
+    "id": 909,
+    "name": "Flinger #909",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0909.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orangeez"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wizard"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Teddy"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Poop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Saviour"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Helltail"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 51
+}

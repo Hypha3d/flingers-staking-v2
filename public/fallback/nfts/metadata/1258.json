@@ -1,0 +1,46 @@
+{
+    "id": 1258,
+    "name": "Flinger #1258",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1258.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fury"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Orc"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Pebble-Dash"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tophat 3"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Hippy"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lizard Tongue"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 165
+}

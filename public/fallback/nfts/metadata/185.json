@@ -1,0 +1,46 @@
+{
+    "id": 185,
+    "name": "Flinger #185",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0185.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bot"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Bot"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Rock 1"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tophat 1"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 654
+}

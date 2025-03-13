@@ -1,0 +1,46 @@
+{
+    "id": 548,
+    "name": "Flinger #548",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0548.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orangeez"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wizard"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Stoned Ape"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Chatter-teeth"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar 2"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 346
+}

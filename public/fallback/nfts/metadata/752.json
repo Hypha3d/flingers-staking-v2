@@ -1,0 +1,46 @@
+{
+    "id": 752,
+    "name": "Flinger #752",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0752.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Undead"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Poop-Dollar"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bizkit"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sunnies"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 288
+}

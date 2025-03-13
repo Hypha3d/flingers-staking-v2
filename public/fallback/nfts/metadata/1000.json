@@ -1,0 +1,46 @@
+{
+    "id": 1000,
+    "name": "Flinger #1000",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1000.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Leopard"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Rock 1"
+        },
+        {
+            "trait_type": "Head",
+            "value": "None"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Aged Tache"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wizard Pipe"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 95
+}

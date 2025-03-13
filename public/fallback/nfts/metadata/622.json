@@ -1,0 +1,46 @@
+{
+    "id": 622,
+    "name": "Flinger #622",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0622.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Wizard"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Soft Poop"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Happy Birthday"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cigar 2"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Fluffy Tail"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 234
+}

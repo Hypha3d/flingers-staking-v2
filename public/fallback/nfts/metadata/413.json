@@ -1,0 +1,48 @@
+{
+    "id": 413,
+    "name": "Lord of the Orcs",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0413.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Warlord"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Warlord"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 14,
+    "camera_variant": null,
+    "lighting_variant": null
+}

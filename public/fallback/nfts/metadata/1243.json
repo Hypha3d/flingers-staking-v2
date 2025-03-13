@@ -1,0 +1,46 @@
+{
+    "id": 1243,
+    "name": "Flinger #1243",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1243.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bot"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Leaf"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Stacks"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Saviour"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wizard Pipe"
+        },
+        {
+            "trait_type": "Back",
+            "value": "None"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 56
+}

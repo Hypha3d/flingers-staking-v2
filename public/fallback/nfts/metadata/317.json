@@ -1,0 +1,46 @@
+{
+    "id": 317,
+    "name": "Flinger #317",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0317.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "ApeChain Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Cosmic"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Cosmic"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Tophat 1"
+        },
+        {
+            "trait_type": "Face",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Tail"
+        }
+    ],
+    "is_one_of_one": false,
+    "rarity_rank": 32
+}

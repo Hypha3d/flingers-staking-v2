@@ -1,0 +1,48 @@
+{
+    "id": 465,
+    "name": "Mr. President",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0465.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Candidape"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Candidape"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 15,
+    "camera_variant": null,
+    "lighting_variant": null
+}

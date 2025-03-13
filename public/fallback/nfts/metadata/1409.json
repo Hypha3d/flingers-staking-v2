@@ -1,0 +1,48 @@
+{
+    "id": 1409,
+    "name": "Senior Fraog",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "1409.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Fraog"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Fraog"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 13,
+    "camera_variant": null,
+    "lighting_variant": null
+}

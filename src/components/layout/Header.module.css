@@ -1,0 +1,112 @@
+/* src/components/layout/Header.module.css (updated) */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    margin-bottom: 30px;
+  }
+  
+  .logo {
+    font-size: 28px;
+    font-weight: 800;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: 2px;
+    text-decoration: none;
+  }
+  
+  .headerRight {
+    display: flex;
+    align-items: center;
+  }
+  
+  .loginButton {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    color: white;
+    cursor: pointer;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+  
+  .loginButton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(108, 17, 255, 0.3);
+  }
+  
+  .profile {
+    position: relative;
+  }
+  
+  .profileWrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 30px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .profileWrapper:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  .profileImage {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: white;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .username {
+    font-weight: 600;
+  }
+  
+  .profileMenu {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    background-color: var(--bg-card);
+    border-radius: 10px;
+    min-width: 150px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    z-index: 100;
+  }
+  
+  .menuItem {
+    display: block;
+    width: 100%;
+    padding: 12px 15px;
+    text-align: left;
+    background: none;
+    border: none;
+    color: var(--text-light);
+    cursor: pointer;
+    font-family: 'Orbitron', sans-serif;
+    transition: background-color 0.2s ease;
+  }
+  
+  .menuItem:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  .menuItem:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }

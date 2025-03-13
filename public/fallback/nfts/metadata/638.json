@@ -1,0 +1,48 @@
+{
+    "id": 638,
+    "name": "Light Bringer",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0638.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Deciever"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Deciever"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 10,
+    "camera_variant": null,
+    "lighting_variant": null
+}

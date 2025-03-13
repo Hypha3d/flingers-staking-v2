@@ -1,0 +1,48 @@
+{
+    "id": 996,
+    "name": "Lil' Red",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0996.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Red Devil"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Red Devil"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 8,
+    "camera_variant": null,
+    "lighting_variant": null
+}

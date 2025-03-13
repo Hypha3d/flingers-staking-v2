@@ -1,0 +1,48 @@
+{
+    "id": 642,
+    "name": "Archangel",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0642.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Guardian"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Guardian"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 11,
+    "camera_variant": null,
+    "lighting_variant": null
+}

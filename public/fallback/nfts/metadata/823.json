@@ -1,0 +1,48 @@
+{
+    "id": 823,
+    "name": "Kid-Ape",
+    "description": "Shit Flinging apes on Apechain. Visit www.flingers.xyz for more...",
+    "image": "0823.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Flinger",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Projectile",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Head",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Face",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "The Kid"
+        },
+        {
+            "trait_type": "Back",
+            "value": "The Kid"
+        }
+    ],
+    "is_one_of_one": true,
+    "rarity_rank": 9,
+    "camera_variant": null,
+    "lighting_variant": null
+}
